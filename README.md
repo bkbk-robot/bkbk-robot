@@ -14,6 +14,13 @@
 - Built entirely solo using AI-assisted development
 - Open source, community-driven
 
+## 📈 GitHub Stats
+
+<p>
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=bkbk-robot&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="GitHub Stats" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bkbk-robot&layout=compact&theme=dark&hide_border=true" alt="Top Languages" />
+</p>
+
 ## 🛠️ Tech Stack
 
 | Domain | Tools |
@@ -23,6 +30,13 @@
 | Firmware | C/C++, Python |
 | AI/ML | PyTorch, YOLO, edge inference |
 | Software | Python, ROS2 |
+
+## 📚 Currently Exploring
+
+- **VLA Models** — NVIDIA Isaac GR00T, Qwen-RobotManip, MemoryVLA
+- **Motion Retargeting** — GMR, robot_retargeter for humanoid motion transfer
+- **World Models** — NVIDIA Cosmos for Physical AI simulation
+- **Open-source robot arms** — SO-ARM100, PAROL6, XLeRobot for design inspiration
 
 ## 🌍 Location
 Guangzhou, China 🇨🇳
