@@ -34,6 +34,8 @@
 ## 📚 Currently Exploring
 
 - **VLA Models** — NVIDIA Isaac GR00T, Qwen-RobotManip, MemoryVLA
+- **LeRobot Ecosystem** — PAROL6 desktop arm, any4lerobot utilities, LeIsaac sim teleop, VLA dataset toolkit
+- **Sim2Real** — LeRobot sim2real training pipeline for zero-shot policy deployment
 - **Motion Retargeting** — GMR, robot_retargeter for humanoid motion transfer
 - **World Models** — NVIDIA Cosmos for Physical AI simulation
 - **Open-source robot arms** — SO-ARM100, PAROL6, XLeRobot for design inspiration
