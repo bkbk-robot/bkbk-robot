@@ -1,18 +1,21 @@
 # Cloud 👋
 
-> Building **Thor 1.0** — a 6-DOF AI-powered robotic arm, solo-built with AI tools in one month.
+> Building **SO-101 + VLA policies** — an open-source robot arm that learns manipulation skills from human demonstration. Solo-built, AI-native.
 
 ## 🎯 Mission
 
-**One person + AI tools = a full team.** I'm proving that a single builder can ship production-grade robotics by leveraging AI as a force multiplier across mechanical design, firmware, ML, and software engineering.
+**One person + AI tools = a full team.** I'm proving that a single builder can ship real robotics — from mechanical assembly to policy training — by leveraging AI as a force multiplier across mechanical design, firmware, ML, and software engineering.
 
 ## 🔧 Current Project
 
-### [Thor 1.0 — 6-DOF Arduino Robotic Arm](https://github.com/bkbk-robot/thor1-arm)
-- 6-axis robotic arm with AI voice control
-- Arduino-based firmware with inverse kinematics
-- Built entirely solo using AI-assisted development
-- Open source, community-driven
+### [SO-101 + SmolVLA — manipulation policies on open hardware](https://github.com/bkbk-robot/so101-arm)
+- Dual-arm LeRobot setup (leader/follower teleoperation) with web-based control panel
+- **First policy demo is live:** block-to-plate transfer, trained on teleoperated demonstrations, inference on-device — [watch it](https://github.com/bkbk-robot/so101-arm#-first-policy-demo)
+- Path: collect demos via teleop → fine-tune a compact VLA (SmolVLA) → deploy on real hardware
+- Fully open source, built solo with AI-assisted development
+
+### [Thor 1.0 — 6-DOF AI Robotic Arm](https://github.com/bkbk-robot/thor1-arm) *(completed learning project)*
+- 6-axis Arduino arm with AI voice control, inverse kinematics, custom PCB — shipped in one month, solo
 
 ## 📈 GitHub Stats
 
@@ -25,10 +28,10 @@
 
 | Domain | Tools |
 |--------|-------|
-| Mechanical | SolidWorks, 3D printing |
+| Mechanical | SolidWorks, FreeCAD, 3D printing |
 | Electronics | Arduino, custom PCB design |
 | Firmware | C/C++, Python |
-| AI/ML | PyTorch, YOLO, edge inference |
+| AI/ML | PyTorch, LeRobot, SmolVLA, YOLO, edge inference |
 | Software | Python, ROS2 |
 
 ## 📚 Currently Exploring
