@@ -17,6 +17,18 @@
 ### [Thor 1.0 — 6-DOF AI Robotic Arm](https://github.com/bkbk-robot/thor1-arm) *(completed learning project)*
 - 6-axis Arduino arm with AI voice control, inverse kinematics, custom PCB — shipped in one month, solo
 
+## 📸 Gallery
+
+**Conveyor pick-and-place — one episode, four frames**
+
+| | |
+|:--:|:--:|
+| ![grasp](assets/conveyor-01_grasp.jpg) | ![result](assets/conveyor-02_result.jpg) |
+| Tracking a moving cube on the belt | Two cubes placed in the tray |
+
+![system](assets/conveyor-03_system.jpg)
+*Teleop leader (left), follower (right), conveyor, and the bus-servo driver board.*
+
 ## 📈 GitHub Stats
 
 <p>
@@ -42,9 +54,6 @@
 - **Motion Retargeting** — GMR, robot_retargeter for humanoid motion transfer
 - **World Models** — NVIDIA Cosmos for Physical AI simulation
 - **Open-source robot arms** — SO-ARM100, PAROL6, XLeRobot for design inspiration
-
-## 🌍 Location
-Guangzhou, China 🇨🇳
 
 ## 📫 Connect
 - GitHub: [@bkbk-robot](https://github.com/bkbk-robot)
